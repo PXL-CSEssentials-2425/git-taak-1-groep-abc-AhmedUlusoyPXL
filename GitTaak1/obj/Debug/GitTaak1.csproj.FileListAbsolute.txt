@@ -1,0 +1,16 @@
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\bin\Debug\GitTaak1.exe.config
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\bin\Debug\GitTaak1.exe
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\bin\Debug\GitTaak1.pdb
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\App.g.cs
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1_MarkupCompile.cache
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1_MarkupCompile.lref
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.g.resources
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.Properties.Resources.resources
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.csproj.GenerateResource.cache
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.exe
+C:\Users\Ahmed\Documents\C#essentials\GitTaak1\obj\Debug\GitTaak1.pdb
